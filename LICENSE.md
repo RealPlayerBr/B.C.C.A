@@ -1,3 +1,4 @@
+# LICENÇA 
 Todos os **direitos** reservados (c) 
 RealPlayerBr. (DiscordNick: realplayerbr)
 &
